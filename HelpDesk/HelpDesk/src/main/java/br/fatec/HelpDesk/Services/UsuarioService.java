@@ -1,5 +1,6 @@
 package br.fatec.HelpDesk.Services;
 
+import br.fatec.HelpDesk.Dtos.UsuarioDTO;
 import br.fatec.HelpDesk.Entities.Usuario;
 import org.springframework.stereotype.Service;
 

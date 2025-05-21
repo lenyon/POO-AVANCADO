@@ -33,6 +33,4 @@ public record EquipeDTO(
         return null;
     }
 
-
-
 }
