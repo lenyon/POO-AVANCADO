@@ -57,7 +57,4 @@ public class MapperGeral implements Serializable {
                 UsuarioDTO.toUsario(dto) : null;
     }
 
-
-
-
 }
